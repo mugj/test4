@@ -25,7 +25,7 @@ SECRET_KEY = '4!%zyw$&i+xn7d$xdt(j7+-o*ecvf=twd@ynqg#gq#fr6#82ay'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost ', '.nevermore.top']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost ', '.nevermore.cc']
 
 
 # Application definition
